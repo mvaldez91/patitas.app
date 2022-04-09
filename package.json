@@ -21,7 +21,7 @@
   "homepage": "https://github.com/gndx/patitas.arepa.dev#readme",
   "dependencies": {
     "firebase": "^6.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",
